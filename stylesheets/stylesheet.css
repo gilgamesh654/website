@@ -331,6 +331,10 @@ footer a {
 footer a:hover {
   color: #56A5EC;
 }
+.floated_img
+{
+    float: left;
+}
 
 /* MISC */
 .clearfix:after {
