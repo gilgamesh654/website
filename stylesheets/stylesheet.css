@@ -340,6 +340,8 @@ footer a:hover {
 .floated_img
 {
     float: left;
+    height: 600;
+    width: 400;
 }
 
 /* MISC */
