@@ -89,6 +89,12 @@ header h2 {
   letter-spacing: -1px;
 }
 
+header h2 about {
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+}
+
 #container {
   min-height: 595px;
 }
